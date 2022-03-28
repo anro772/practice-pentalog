@@ -1,0 +1,4 @@
+*.vcxproj
+*.sln
+*.vcxproj.filters
+*.vcxproj.user
